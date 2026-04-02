@@ -138,5 +138,4 @@ Durante o desenvolvimento deste projeto, foram reforçados conceitos como:
 
 ## Autor
 
-* Filipe Madeira
-* https://github.com/FilipeMadeira13
+* [Filipe Madeira](https://github.com/FilipeMadeira13)
