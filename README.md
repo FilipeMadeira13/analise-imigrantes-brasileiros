@@ -1,5 +1,10 @@
 # Análise de Imigrantes do Brasil para o Canadá
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+
 ![Gráfico de imigração](imagens/imigrantes.png)
 
 ---
